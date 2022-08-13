@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Maya Great People Bonus",
+        "uniqueTo": "The Maya",
+        "greatPersonPoints": {"Great Scientist": 12,"Great Artist": 12,"Great Engineer": 12,"Great Merchant": 12},
+        "requiredTech": "Theology",
+        "cost": 1,
+        "replacementTextForUniques": " ",
+        "uniques": ["Destroyed when the city is captured","Only available <if [Palace] is constructed>",
+        	"Will not be displayed in Civilopedia","Unsellable"]
+    },
+]
