@@ -1,6 +1,10 @@
 [
+		{
+		"name": "Epic of Battle",
+		"uniques": ["[+15]% Strength <vs cities>"],
+	},
 	{
-		"name": "Dojo", // Japan
-		"uniques": ["[+10]% Strength"]
+		"name": "Air Recon", // Air units
+		"uniques": ["[+4] Sight", "Can see over obstacles"]
 	},
 ]
