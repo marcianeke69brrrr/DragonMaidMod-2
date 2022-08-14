@@ -1,4 +1,5 @@
-{
+[
+	{
 		"name": "Rocket Artillery",
 		"unitType": "Siege",
 		"movement": 2,
@@ -74,5 +75,5 @@
 		"uniques": ["Can start an [8]-turn golden age", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can construct [Citadel]",
 			"Great Person - [War]", "Unbuildable"],
 		"movement": 4
-  }
+        }
 ]
